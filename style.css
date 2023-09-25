@@ -11,3 +11,20 @@ body {
 ul {
     list-style-position: inside;
 }
+
+h1 {
+    color: green;
+    background-color: beige;
+}
+
+h3 {
+    background-color: bisque;
+    color: brown;
+}
+
+.description,
+.ingredients,
+.steps {
+    color: darkmagenta;
+    font-weight: bold;
+}
